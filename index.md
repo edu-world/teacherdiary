@@ -1,6 +1,34 @@
 ## Teacherdiary will help you have a deep understand of teacher.
 
 
+
+#### 20210318
+1. Improving teacher system information.
+2. Making a contract with school about School housing. 
+3. Filling the list of students who have not returned to school.
+4. Filling the list of personnel in the Ideological and Political Department based on thier academic performance. 
+5. Building this website.
+
+#### 20210317
+1. Collectiing of materials for class culture construction.
+2. Communicating with his mom of student B with psychological problems.
+3. Meeting with parents of classmates who playing mobile phones yesterday.
+
+#### 20210316
+1. Talking with A's mother about hers treatment device.
+2. Applying for school housing.
+3. Class meeting （Electronic product issues, attendance and discipline issues, learning major adjustments, class duty, dormitory management, respect for teachers and so on）
+4. interviewing with students who violate discipline in late self-study.
+5. At midnight, I received a message that students B and C were using mobile phones illegally in the dormitory and made an appointment for parents to come to school. 
+
+#### 20210315
+1. Purchase a bunch of experimental materials related to scientific research topics.
+2. Finding literatures related to scientific research topics.
+3. Head teachers meeting（mainly school discipline, students safety）.
+4. In the evening, the head teachers gather together for dinner and sing songs to relax.
+5. Lesson preparation (Curriculum Standard Course and school-based Course). Makeing powerpoint.
+
+
 #### 20210314
 1. Continue to invigilate for one day.
 2. In the evening, I wiped out the name of the deceased classmate from the leave list on the blackboard before the weekend students returned to school.
