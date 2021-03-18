@@ -1,4 +1,4 @@
-## Welcome to teacherworld, this website will help you have a deep understand of teacher.
+## Teacherworld will help you have a deep understand of teacher.
 
 
 
@@ -13,11 +13,37 @@ Invigilated for a day in isolation from the world and unable to carry a mobile p
 In the evening, I received the news that one of my 16-year-old students left the world she loved because of cancer. I reported this situation to the school.
 
 
-### What's the mains job of this website ?
+
+Sometimes you want numbered lists:
+
+1. One
+2. Two
+3. Three
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+If you'd like to quote someone, use the > character before the line:
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> - Captain Janeway
+
+
+
+
+
+
+
+
+
+
+
+### What's the mains aim of this website ?
 For the time being, it is to introduce the life of myself as a teacher for the recent one year. Here, You'll see what a teacher is like and what do teachers do in school.
 
-### Why this time I build this website?
+### Why this time I build this website ?
 The students are really bothering me these days. I am boring this profession more and more. Most importantly, memory my student.
 
-### Why I build this website?
+### Why I build this website ?
 Everyone of us had or having an education, but Unfortunately, many people don't clearly know teachers at all. What's more unfortunate is that these people who don't know teachers want to tell them what they should do. 
