@@ -1,6 +1,71 @@
 ## Teacherdiary will help you have a deep understand of teacher.
 
 
+#### 2021.3.28
+1.Class culture construction materials.
+
+#### 2021.3.27
+1.I went to the hospital to get the Corona Virus Disease 2019 vaccine.
+2.The student's wallet was found.
+
+#### 2021.3.26
+1.About the students' wallets.
+2.I release the physics test results to the students' parents.
+3.The designer of class culture construction materials was replaced by me.
+4.Sub examination paper.
+
+#### 2021.3.25
+1.One student handed in a blank paper in the physics test. Contact parents.
+2.Search for patents related to scientific research projects.
+3.Design test answer cards.
+4.Class culture construction information printing.
+5.Overall planning of school administrative affairs.
+6.A student lost his wallet. Check the surveillance.
+7.A come to school to apply for suspension.
+
+#### 2021.3.24
+1.Fill in the questionnaire of new teachers' professional skills training.
+2.In the morning, listen to open class and take photos.
+3.Last semester's parent consultation.
+4.Experimental materials and lessons of school-based courses.
+5.Two hours school meeting.
+
+#### 2021.3.23
+1.Thinking class meeting theme 1: self discipline; Theme 2: the importance of first language and second language.
+2.Remind health committee members to clean class fans.
+3.Laboratory instruments.
+4.Class culture construction.
+5.A wants to leave school.
+6.Contact the suspension matters and make an appointment for all parties.
+7.Take scientific research materials.
+8.The finance office contacted me about the payment of my class.
+
+#### 2021.3.22
+1.Grade meeting.
+
+#### 2021.3.21
+1.Organize new students' class materials.
+
+#### 2021.3.20
+1.I found a student's meal card.
+2.Organize the new curriculum.
+3.Release math and English test results to parents.
+4.Class culture construction.
+5.Purchase scientific research materials.
+6.Class name.
+7.Students ask for leave.
+8.There is a new student in the class.
+9.Select excellent students and student cadres.
+10.Adjust class seats.
+11.Arrange family committee to collect class fund.
+
+#### 2021.3.19
+1.Scientific research materials.
+2.Group score statistics.
+3.A ask for leave to go home, contact the parents.
+4.The teaching building was cut off intermittently.
+5.Tuition and accommodation fees.
+6.Class slogan and class name.
 
 #### 20210318
 1. Improving teacher system information.
