@@ -61,11 +61,11 @@
 
 #### 2021.3.19
 1. Scientific research materials.
-2. Group score statistics.
-3. A ask for leave to go home, contact the parents.
-4. The teaching building was cut off intermittently.
-5. Tuition and accommodation fees.
-6. Class slogan and class name.
+3. Group score statistics.
+4. A ask for leave to go home, contact the parents.
+5. The teaching building was cut off intermittently.
+6. Tuition and accommodation fees.
+7. Class slogan and class name.
 
 #### 20210318
 1. Improving teacher system information.
